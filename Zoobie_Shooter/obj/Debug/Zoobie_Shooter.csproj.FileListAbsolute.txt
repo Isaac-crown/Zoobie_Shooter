@@ -1,0 +1,11 @@
+C:\Users\USER\Source\Repos\Zoobie_Shooter\Zoobie_Shooter\bin\Debug\Zoobie_Shooter.exe.config
+C:\Users\USER\Source\Repos\Zoobie_Shooter\Zoobie_Shooter\bin\Debug\Zoobie_Shooter.exe
+C:\Users\USER\Source\Repos\Zoobie_Shooter\Zoobie_Shooter\bin\Debug\Zoobie_Shooter.pdb
+C:\Users\USER\Source\Repos\Zoobie_Shooter\Zoobie_Shooter\obj\Debug\Zoobie_Shooter.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\Zoobie_Shooter\Zoobie_Shooter\obj\Debug\Zoobie_Shooter.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Source\Repos\Zoobie_Shooter\Zoobie_Shooter\obj\Debug\Zoobie_Shooter.Form1.resources
+C:\Users\USER\Source\Repos\Zoobie_Shooter\Zoobie_Shooter\obj\Debug\Zoobie_Shooter.Properties.Resources.resources
+C:\Users\USER\Source\Repos\Zoobie_Shooter\Zoobie_Shooter\obj\Debug\Zoobie_Shooter.csproj.GenerateResource.cache
+C:\Users\USER\Source\Repos\Zoobie_Shooter\Zoobie_Shooter\obj\Debug\Zoobie_Shooter.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\Zoobie_Shooter\Zoobie_Shooter\obj\Debug\Zoobie_Shooter.exe
+C:\Users\USER\Source\Repos\Zoobie_Shooter\Zoobie_Shooter\obj\Debug\Zoobie_Shooter.pdb
